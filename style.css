@@ -6,6 +6,7 @@ ul {
   
   p {
     margin: 0;
+    margin-bottom: 5px;
   }
   
   a :hover {
@@ -151,10 +152,14 @@ ul {
 
   p{
     font-size: 13px;
+    margin-bottom: 8px;
   }
 
   img{
     width: 555px;
     height: 139px;
-    
+  }
+
+  #school{
+    margin-bottom: 8px;
   }
